@@ -1,6 +1,6 @@
 # Safety-autonomous-driving-Dense-Deep-reinforcement-learning-Highway-env [Big data & HPC]
 
-## University Of Liverpool - [Naga sri ram Kochetti] [201664307] 
+## University Of Liverpool 
 
 ---
 
