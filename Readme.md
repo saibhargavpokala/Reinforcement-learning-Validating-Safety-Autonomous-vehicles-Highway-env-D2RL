@@ -454,11 +454,10 @@ This project is part of academic research at the University of Liverpool.
 
 ## 📧 Contact
 
-**Student**: Naga sri ram Kochetti  
+**Student**: Saibharghav Pokala
 **Student ID**: 201664307  
 **Institution**: University of Liverpool  
 **Course**: COMP702 - Computer Science MSc Project  
-**Domain**: Big Data & High Performance Computing
 
 ---
 
